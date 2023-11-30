@@ -11,47 +11,67 @@ For now, this page is assumed to be a static description of your courses. You ca
 
 Organize your courses by years, topics, or universities, however you like!
 
-<h3 class="mt-4">Carnegie Mellon University</h3>
+<h3 class="mt-4">Stanford University</h3>
 
 <div class="card mt-3">
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 class="font-weight-bold">Introduction to Machine Learning</h5>
+        <h5 class="card-title"><a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/index.html" target="_blank" rel="noopener noreferrer">Probabilistic Graphical Models</a></h5>
+        <h6 class="card-subtitle font-italic">Spring 2020: Guest Lecturer</h6>
       </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle" href="https://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">
-            10-701
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          10-708
         </span>
       </div>
     </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Spring 2018: Teaching Assistant</h6>
+    
     <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, held recitations, created and graded homeworks and exams.</li>
-      <li class="list-group-item">○ I was awarded a Machine Learning Department <a href="https://www.ml.cmu.edu/news/news-archive/2018/may/machine-learning-ta-awards-2018.html" target="_blank">Teaching Assistant Award</a>.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~pradeepr/courses/701/2018-spring/" target="_blank">here</a>.</li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 19: Reinforcement Learning as Inference in GM (part 1)
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture19-RL1.pdf" target="_blank" rel="noopener noreferrer">slides</a>&nbsp;
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=2da93b7e-3618-4e3d-bc68-ab8e012d0fb2" target="_blank" rel="noopener noreferrer">video</a>&nbsp;
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec19_scribe.pdf" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 20: Reinforcement Learning as Inference in GM (part 2)
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture20-RL2.pdf" target="_blank" rel="noopener noreferrer">slides</a>&nbsp;
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=f809e621-14e6-42e3-ae2f-ab9501503ad2" target="_blank" rel="noopener noreferrer">video</a>&nbsp;
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/scribe/lec20_scribe.pdf" target="_blank" rel="noopener noreferrer">notes</a>&nbsp;
+          </div>
+        </div>
+      </li>
+      
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            Lecture 27: Elements of Meta-Learning
+          </div>
+          <div class="col-sm-3">
+            
+            <a href="https://www.cs.cmu.edu/~epxing/Class/10708-20/lectures/lecture27-elements-of-meta-learning-maruan.pdf" target="_blank" rel="noopener noreferrer">slides</a>&nbsp;
+            <a href="https://scs.hosted.panopto.com/Panopto/Pages/Viewer.aspx?id=4c0c884e-ce3f-4779-9940-abaa01300ae1" target="_blank" rel="noopener noreferrer">video</a>&nbsp;
+            
+          </div>
+        </div>
+      </li>
+      
     </ul>
-  </div>
-</div>
-
-<div class="card mt-3">
-  <div class="p-3">
-    <div class="row">
-      <div class="col-sm-10">
-        <h5 class="font-weight-bold">Topics in Deep Learning</h5>
-      </div>
-      <div class="col-sm-2 text-left text-sm-right">
-        <span class="badge font-weight-bold light-green darken-1 text-uppercase align-middle">
-            10-707
-        </span>
-      </div>
-    </div>
-    <h6 class="font-italic mt-2 mt-sm-0">Fall 2017: Teaching Assistant</h6>
-    <ul class="card-text font-weight-light list-group list-group-flush">
-      <li class="list-group-item">○ Graduate level introduction to machine learning class for masters and PhD students taught by  <a href="https://www.cs.cmu.edu/~rsalakhu/" target="_blank">Prof. Ruslan Salakhutdinov</a>.</li>
-      <li class="list-group-item">○ I mentored groups of students working on class projects, graded homeworks and exams.</li>
-      <li class="list-group-item">○ Course materials can be found <a href="http://www.cs.cmu.edu/~rsalakhu/10707/" target="_blank">here</a>.</li>
-    </ul>
+    
   </div>
 </div>
