@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Extended Reality, Computer Vision, Computer-Assisted Surgery, and Neural Engineering.
 
 profile:
   align: right
