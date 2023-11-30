@@ -7,7 +7,7 @@ subtitle: Extended Reality, Computer Vision, Computer-Assisted Surgery, and Neur
 profile:
   align: right
   image: Profile.jpg
-  image_circular: false # crops the image to make it circular
+  image_circular: true # crops the image to make it circular
   more_info: 
 
 news: false  # includes a list of news items
