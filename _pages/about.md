@@ -8,10 +8,7 @@ profile:
   align: right
   image: Profile.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+  more_info: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -23,9 +20,9 @@ social: true  # includes social icons at the bottom of the page
 
 I am proudly the co-president of [Stanford XR](https://www.stanfordxr.org/), Stanford University's student organization for extended reality. We work on building a community that encourages engagement, creates access, and supports innovation in the extended reality space.
 
-In 2017, I received my degree in Biomedical Engineering from the Holy Spirit University of Kaslik (USEK). I completed my thesis in collaboration with the [Robotics and Mechatronics](https://www.ram.eemcs.utwente.nl/) group at the University of Twente, the Netherlands.
-            
 From 2017 to 2019, I followed the Master program in Biomedical Engineering at the American University of Beirut. During this period, I was a Research Assistant at the [Neural Engineering and Nanobiosensors Group](https://sites.aub.edu.lb/samneuro/), where I worked on neural interfaces and restoring vision with electrical stimulation.
+
+In 2017, I received my degree in Biomedical Engineering from the Holy Spirit University of Kaslik (USEK). I completed my thesis in collaboration with the [Robotics and Mechatronics](https://www.ram.eemcs.utwente.nl/) group at the University of Twente, the Netherlands.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
