@@ -8,7 +8,9 @@ profile:
   align: right
   image: Profile.jpg
   image_circular: true # crops the image to make it circular
-  more_info: Stanford, California
+  address: >
+    <p>Stanford, California</p>
+  more_info: 
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
