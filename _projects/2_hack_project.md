@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <a href="https://devpost.com/software/painpal-6l27vk" target="_blank" rel="noopener noreferrer">PainPal</a>
-description: Submitted to MIT Reality Hack 2023 - PainPal gives patients a VR pain-t brush to express and convey the pain they feel to clinicians and their loved ones
+description: Built at MIT Reality Hack 2023 - PainPal gives patients a VR pain-t brush to express and convey the pain they feel to clinicians and their loved ones - built for Meta Quest Pro
 img: assets/img/PainPal.gif
 importance: 1
 category: XR Hackathons

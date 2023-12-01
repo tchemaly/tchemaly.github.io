@@ -1,8 +1,8 @@
 ---
 layout: page
-title: arthRIGHT
-description: Built at Health Hacks 2023 - First VR app to provide live gait retraining using clinical metrics and remote monitoring for Osteoarthritis patients - built for Meta Quest 2
-img: assets/img/HH.gif
+title: ARWEAR
+description: AR app for fashion try-on using 2D to 3D generative AI and body tracking - built for iOS
+img: assets/img/ARWEAR.jpg
 importance: 1
 category: XR Hackathons
 related_publications: 
