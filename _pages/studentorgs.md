@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Student Organizations
-permalink: /projects/
+permalink: /studentorgs/
 description: 
 nav: true
 nav_order: 5
