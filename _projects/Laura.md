@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR surgical Microscope</a>
-description: A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
-img: assets/img/PhD.gif
+title: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery
+description: Accepted to SIGCHI - An auditory display using shape sonification to assist with tumor margin localization
+img: assets/img/Laura.png
 importance: 1
 category: Medical XR and Computer Vision
 related_publications: einstein1956investigations, einstein1950meaning
