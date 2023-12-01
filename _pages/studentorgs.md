@@ -9,6 +9,8 @@ display_categories: [Stanford XR, USEK Robotics Team]
 horizontal: false
 ---
 
+I am proudly the co-president of [Stanford XR](https://www.stanfordxr.org/), Stanford University's student organization for extended reality. We work on building a community that encourages engagement, creates access, and supports innovation in the extended reality space.
+
 <!-- pages/studentorgs.md -->
 <div class="projects">
 {%- if site.enable_project_categories and page.display_categories %}
