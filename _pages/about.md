@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about-custom
 title: Bio
 permalink: /
 subtitle: Extended Reality, Computer Vision, Computer-Assisted Surgery, and Neural Engineering.
