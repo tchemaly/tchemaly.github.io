@@ -11,8 +11,8 @@ nav_order: 5
 
 <style>
   .custom-border {
-    border: 2px solid #333; /* Adjust the color as needed */
-    border-radius: 4px; /* Optional: if you want rounded corners */
+    border: 1px solid #333; /* Adjust the color as needed */
+    border-radius: 5px; /* Optional: if you want rounded corners */
   }
   .custom-padding {
     padding-left: 30px; /* Adjust the left padding as needed */
@@ -22,7 +22,7 @@ nav_order: 5
     background-color: transparent !important; /* Override background color */
   }
   .card-spacing {
-    margin-bottom: 30px; /* Adjust the value as needed */
+    margin-bottom: 20px; /* Adjust the value as needed */
   }
 </style>
 
@@ -47,7 +47,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-11">
+      <div class="col-10 custom-padding">
         <h5 class="card-title">
           <a href="https://stanford-bioe80.github.io/docs/introduction/" target="_blank" rel="noopener noreferrer">Introduction to Bioengineering</a>
         </h5>
@@ -67,7 +67,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-11">
+      <div class="col-10 custom-padding">
         <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
@@ -88,7 +88,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-11">
+      <div class="col-10 custom-padding">
         <h5 class="card-title">
           <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=BIOE+301C%3A+Diagnostic+Devices+Lab&collapse=" target="_blank" rel="noopener noreferrer">Diagnostic Devices Lab</a>
         </h5>
