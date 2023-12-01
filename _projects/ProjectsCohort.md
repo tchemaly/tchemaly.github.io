@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Projects Cohort
-description: Directed Stanford University’s first XR incubator program and mentored 10+ teams
+description: Directed Stanford University’s first XR incubator program in collaboration with venture capitalists and industry professionals
 img: assets/img/Hack_Profile.jpg
 importance: 1
 category: Stanford XR
