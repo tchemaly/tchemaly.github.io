@@ -28,6 +28,26 @@ nav_order: 5
     <div class="row">
       <div class="col-10 custom-padding">
         <h5 class="card-title">
+          <a href="https://stanford-bioe80.github.io/docs/introduction/" target="_blank" rel="noopener noreferrer">Introduction to Bioengineering</a>
+        </h5>
+        <h6 class="card-subtitle font-italic mb-3">Spring 2022: TA</h6>
+        <p class="card-text font-weight-light">
+          Students completing BIOE 80 should have a working understanding for how to approach the systematic engineering of living systems to benefit all people and the planet. Our main goals are (1) to help students learn ways of thinking about engineering living matter and (2) to empower students to explore the broader ramifications of engineering life. Specific concepts and skills covered include but are not limited to: capacities of natural life on Earth; scope of the existing human-directed bioeconomy; deconstructing complicated problems; reaction & diffusion systems; microbial human anatomy; conceptualizing the engineering of biology; how atoms can be organized to make molecules; how to print DNA from scratch; programming genetic sensors, logic, & actuators; biology beyond molecules (photons, electrons, etc.); constraints limiting what life can do; and possible health challenges in 2030. And we explore questions like, how does what we want shape bioengineering, and who should choose and realize various competing bioengineering futures? 
+        </p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background">○ Created and graded assignments</li>
+          <li class="list-group-item no-background">○ Held office hours and mentored students</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card custom-border">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-10 custom-padding">
+        <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Fall 2021: TA</h6>
@@ -38,6 +58,26 @@ nav_order: 5
           <li class="list-group-item no-background">○ Created and graded assignments</li>
           <li class="list-group-item no-background">○ Held office hours and mentored students individually</li>
           <li class="list-group-item no-background">○ Mentored groups of students working on class projects</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card custom-border">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-10 custom-padding">
+        <h5 class="card-title">
+          <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=BIOE+301C%3A+Diagnostic+Devices+Lab&collapse=" target="_blank" rel="noopener noreferrer">Diagnostic Devices Lab</a>
+        </h5>
+        <h6 class="card-subtitle font-italic mb-3">Spring 2021: TA</h6>
+        <p class="card-text font-weight-light">
+          This course exposes students to the engineering principles and clinical application of medical devices through lectures and hands-on labs, performed in teams of two. Teams take measurements with these devices and fit their data to theory presented in the lecture. Devices covered include X-ray, CT, MRI, EEG, ECG, Ultrasound and BMI (Brain-machine interface). 
+        </p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background">○ Created and graded assignments</li>
+          <li class="list-group-item no-background">○ Held office hours and mentored students</li>
         </ul>
       </div>
     </div>
