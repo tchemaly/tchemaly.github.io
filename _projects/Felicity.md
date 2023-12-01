@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AR Brachytherapy
+title: AR for Brachytherapy
 description: Electromagnetic tracking and AR visualization of needles in Ultrasound-guided High-Dose-Rate (HDR) brachytherapy - built for HoloLens 2
 img: assets/img/Felicity.gif
 importance: 1

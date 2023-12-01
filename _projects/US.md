@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a href="https://ieeexplore.ieee.org/abstract/document/8603025" target="_blank" rel="noopener noreferrer">A Biomechanical Model for Ultrasound Effect on Neural Excitability</a>
-description: Published by IEEE - A computational model that investigates the impact of biomechanics of ultrasound stimulation on the memb3D AR surgical Microscoperane potential of an active neuron
+title: <a href="https://ieeexplore.ieee.org/abstract/document/8603025" target="_blank" rel="noopener noreferrer">Biomechanical Model for US Effect on Neural Excitability</a>
+description: Published by IEEE - A computational model that investigates the impact of biomechanics of Ultrasound (US) stimulation on the membrane potential of an active neuron
 img: assets/img/US.gif
 importance: 1
 category:   Neural Engineering

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: YOLOv8 Automates Surgical Instrument Tracking
+title: Instrument Tracking
 description: Accepted to AOS - Automated instrument tracking of the drill and suction irrigator in mastoidectomy surgery videos using YOLOv8
 img: assets/img/George.jpg
 importance: 1

@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery
-description: Accepted to SIGCHI - An auditory display using shape sonification to assist with tumor margin localization
+title: Tumor Sonification
+description: Accepted to SIGCHI - An interactive auditory display using shape sonification to assist with tumor margin localization in breast cancer surgery
 img: assets/img/Laura.png
 importance: 1
 category: Medical XR and Computer Vision
