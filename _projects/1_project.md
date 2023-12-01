@@ -1,14 +1,14 @@
 ---
 layout: page
-title: project 1
-description: a project with a background image
+title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">AR surgical stereo microscope</a>
+description: A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
 img: assets/img/PhD.gif
 importance: 1
 category: Medical XR and Computer Vision
 related_publications: einstein1956investigations, einstein1950meaning
 ---
 
-Every project has a beautiful feature showcase page.
+<!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
 
@@ -78,4 +78,4 @@ Here's the code for the last row of images above:
     </div>
 </div>
 ```
-{% endraw %}
+{% endraw %} -->
