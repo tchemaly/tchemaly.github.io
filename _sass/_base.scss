@@ -210,8 +210,11 @@ blockquote {
   }
 }
 
-.desc {
-    color: var(--global-theme-color);
+// Header
+.post-header {
+    .desc {
+        color: var(--global-theme-color);
+    }
 }
 
 
