@@ -22,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like!
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          10-708
+          RAD 206
         </span>
       </div>
     </div>
@@ -51,8 +51,6 @@ Organize your courses by years, topics, or universities, however you like!
           </div>
         </div>
       </li>
-      
-    </ul>
     
   </div>
 </div>

@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about-custom
 title: Bio
 permalink: /
 subtitle: Extended Reality, Computer Vision, Computer-Assisted Surgery, and Neural Engineering.
@@ -8,7 +8,7 @@ profile:
   align: right
   image: Profile.jpg
   image_circular: true # crops the image to make it circular
-  more_info: 
+  more_info: Stanford, California
 
 news: false  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
@@ -16,7 +16,9 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
- I am a Bioengineering PhD Candidate at Stanford University , advised by Prof. Brian Hargreaves and Dr. Nikolas Blevins. My research focus is augmented reality for head and neck surgery. I am fortunate to collaborate with multiple Stanford groups including the [Surgical Simulation lab](https://med.stanford.edu/cardinalsim.html), the [Incubator for Medical Mixed and Extended Reality at Stanford (IMMERS)](https://med.stanford.edu/immers.html) , the [Visualization Lab](https://neuroscience.stanford.edu/shared-resources/visualization-lab), the [Body Magnetic Resonance (BMR) Group](https://med.stanford.edu/bmrgroup.html), and the [Salisbury Robotics Lab](https://sr.stanford.edu/?page_id=1217).
+ I am a Bioengineering PhD Candidate at Stanford University.
+ 
+ My research focus is augmented reality for head and neck surgery, and I am advised by Prof. Brian Hargreaves and Dr. Nikolas Blevins. . I am fortunate to collaborate with multiple Stanford groups including the [Surgical Simulation lab](https://med.stanford.edu/cardinalsim.html), the [Incubator for Medical Mixed and Extended Reality at Stanford (IMMERS)](https://med.stanford.edu/immers.html) , the [Visualization Lab](https://neuroscience.stanford.edu/shared-resources/visualization-lab), the [Body Magnetic Resonance (BMR) Group](https://med.stanford.edu/bmrgroup.html), and the [Salisbury Robotics Lab](https://sr.stanford.edu/?page_id=1217).
 
 I am proudly the co-president of [Stanford XR](https://www.stanfordxr.org/), Stanford University's student organization for extended reality. We work on building a community that encourages engagement, creates access, and supports innovation in the extended reality space.
 
