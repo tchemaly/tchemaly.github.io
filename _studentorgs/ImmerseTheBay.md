@@ -1,19 +1,12 @@
 ---
 layout: page
-title: <a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Touchless Heartbeat</a>
-description: Winner of Stanford XR Hackathon 2023 - A realtime AR visualization of the heart rate estimated using deep learning - built for HoloLens 2
-img: assets/img/fabian.gif
+title: <a href="https://immersethebay.stanfordxr.org/" target="_blank" rel="noopener noreferrer">Immerse The Bay</a>
+description: Organized Immerse The Bay, Stanford University’s first public XR Hackathon, making it the largest XR hackathon in the Bay Area and the West Coast
+img: assets/img/itb.gif
 importance: 1
-category: XR Hackathons
+category: Stanford XR
 related_publications: 
 ---
-
-</div>
-      <div class="col-sm-2 text-sm-right">
-        <span class="badge">
-          HoloLens 2
-        </span>
-</div>
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
