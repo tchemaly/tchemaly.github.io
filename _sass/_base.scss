@@ -619,12 +619,12 @@ footer.sticky-bottom {
 
     .grid-sizer,
     .grid-item {
-        width: 270px;
+        width: 300px;
         margin-bottom: 10px;
     }
 
     h2.category {
-        color: var(--global-divider-color);
+        color: var(--global-theme-color);
         border-bottom: 1px solid var(--global-divider-color);
         padding-top: 0.5rem;
         margin-top: 2rem;
