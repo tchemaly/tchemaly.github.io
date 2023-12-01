@@ -1,11 +1,11 @@
 ---
 layout: page
-title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR surgical Microscope</a>
-description: A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
-img: assets/img/PhD.gif
+title: <a href="https://ieeexplore.ieee.org/abstract/document/8167571" target="_blank" rel="noopener noreferrer">MRI and Stereo Vision Surface Reconstruction and Fusion</a>
+description: Published by IEEE - 3D reconstruction and fusion of the surface of breast phantoms imaged with different modalities for guidance in robotic-assisted biopsy
+img: assets/img/undergrad.gif
 importance: 1
 category: Medical XR and Computer Vision
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 <!-- Every project has a beautiful feature showcase page.

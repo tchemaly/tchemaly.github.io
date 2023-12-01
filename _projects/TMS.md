@@ -1,11 +1,11 @@
 ---
 layout: page
-title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR surgical Microscope</a>
-description: A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
-img: assets/img/PhD.gif
+title: <a href="https://archive.ismrm.org/2020/4150.html" target="_blank" rel="noopener noreferrer">AR for transcranial magnetic stimulation treatment</a>
+description: A mixed reality neuronavigation system that allows the clinician to view brain MRI and targeting information superimposed on the patient’s head for an accelerated and simplified transcranial magnetic stimulation treatment
+img: assets/img/TMS.png
 importance: 1
 category: Medical XR and Computer Vision
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 <!-- Every project has a beautiful feature showcase page.
