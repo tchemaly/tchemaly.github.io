@@ -83,6 +83,9 @@ nav_order: 6
       <div class="col">
         <h5 class="card-title">Robotics Design Award</h5>
         <h6 class="card-subtitle font-italic mb-3">Massachusetts Qualifying Skyrise, VEXU Robotics Competition, April 2015</h6>
+        <ul class="list-group list-group-flush">
+        <li class="list-group-item no-background"><a href="https://www.lorientlejour.com/article/915482/lusek-vole-la-vedette-au-concours-vex-robotics-.html" target="_blank" rel="noopener noreferrer">Read article</a></li>
+        </ul>
       </div>
     </div>
   </div>
