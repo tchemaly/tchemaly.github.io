@@ -9,22 +9,10 @@ nav_order: 5
 
 <h3 class="mt-4">Stanford University</h3>
 
-<style>
-  /* Custom CSS for centering the 11-column content */
-  .centered-col-11 {
-    display: flex;
-    justify-content: center;
-  }
-  .centered-col-11 > div {
-    flex: 0 0 91.666667%; /* 11 out of 12 columns */
-    max-width: 91.666667%; /* 11 out of 12 columns */
-  }
-</style>
-
 <div class="card">
   <div class="p-3">
-    <div class="row centered-col-11">
-      <div class="col">
+    <div class="row">
+      <div class="col-11">
         <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
