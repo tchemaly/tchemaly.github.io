@@ -82,7 +82,7 @@ nav_order: 6
     <div class="row centered-col-11">
       <div class="col">
         <h5 class="card-title">Robotics Design Award</h5>
-        <h6 class="card-subtitle font-italic mb-3">Massachusetts Qualifying Skyrise, VEXU Robotics Competition, Apr 2015</h6>
+        <h6 class="card-subtitle font-italic mb-3">Massachusetts Qualifying Skyrise, VEXU Robotics Competition, April 2015</h6>
       </div>
     </div>
   </div>
