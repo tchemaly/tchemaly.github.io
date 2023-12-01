@@ -4,5 +4,5 @@ permalink: /assets/pdf/Trishia El Chemaly_Resume.pdf
 title: Resume
 nav: true
 newtab: true
-nav_order: 3
+nav_order: 6
 ---

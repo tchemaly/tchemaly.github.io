@@ -4,7 +4,7 @@ permalink: /teaching/
 title: Teaching
 description: Classes, workshops, and teaching
 nav: true
-nav_order: 5
+nav_order: 4
 ---
 
 <h3 class="mt-4">Stanford University</h3>

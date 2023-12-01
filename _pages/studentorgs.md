@@ -4,7 +4,7 @@ title: Student Organizations
 permalink: /projects/
 description: 
 nav: true
-nav_order: 2
+nav_order: 5
 display_categories: [Stanford XR, USEK Robotics Team]
 horizontal: false
 ---
