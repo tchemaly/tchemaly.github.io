@@ -1,11 +1,11 @@
 ---
 layout: page
-title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR surgical Microscope</a>
-description: A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
-img: assets/img/PhD.gif
+title: YOLOv8 Automates Surgical Instrument Tracking
+description: Automated instrument tracking of the drill and suction irrigator in mastoidectomy surgery videos using YOLOv8
+img: assets/img/George.jpg
 importance: 1
 category: Medical XR and Computer Vision
-related_publications: einstein1956investigations, einstein1950meaning
+related_publications: 
 ---
 
 <!-- Every project has a beautiful feature showcase page.
