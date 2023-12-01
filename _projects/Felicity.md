@@ -2,7 +2,7 @@
 layout: page
 title: AR for Brachytherapy
 description: Electromagnetic tracking and AR visualization of needles in Ultrasound-guided brachytherapy - built for HoloLens 2
-img: assets/img/webp/Felicity.gif
+img: assets/img/webp/Felicity.webp
 importance: 1
 category: Medical XR and Computer Vision
 related_publications: einstein1956investigations, einstein1950meaning

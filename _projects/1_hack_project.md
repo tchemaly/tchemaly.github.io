@@ -2,7 +2,7 @@
 layout: page
 title: <a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Touchless Heartbeat</a>
 description: Winner of Stanford XR Hackathon 2023 - A realtime AR visualization of the heart rate estimated using deep learning - built for HoloLens 2
-img: assets/img/webp/fabian.gif
+img: assets/img/webp/fabian.webp
 importance: 1
 category: XR Hackathons
 related_publications: 
