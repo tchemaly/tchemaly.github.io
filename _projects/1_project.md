@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR surgical Microscope</a>
+title: <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5" target="_blank" rel="noopener noreferrer">3D AR Surgical Microscope</a>
 description: Published in IJCARS - A real-time CT-augmented stereo microscope system using camera calibration and electromagnetic tracking
 img: assets/img/PhD.gif
 importance: 1

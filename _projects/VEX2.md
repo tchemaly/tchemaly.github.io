@@ -1,6 +1,6 @@
 ---
 layout: page
-title: VEXU Robotics Nothing But Net 2015-2016
+title: VEXU Robotics Competition 2016
 description: Our team participated in the 2015-2016 VEXU Robotics Nothing But Net Competition
 img: assets/img/vex2.jpg
 importance: 1
