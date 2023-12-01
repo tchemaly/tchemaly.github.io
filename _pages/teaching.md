@@ -19,6 +19,7 @@ nav_order: 5
       <p>
       CS 287H is a graduate-level introduction to algorithmic HRI taught by <a href="https://people.eecs.berkeley.edu/~anca/" target="_blank">Prof. Anca Dragan</a>. The course combines lectures with paper presentations by students, encouraging both fundamental knowledge acquisition as well as open-ended discussions. As the only teaching assistant, I had an opportunity to directly influence the course: I created weekly quizzes, developed homework assignments that allowed students to implement the concepts we discussed as an HRI researcher would, brainstormed and provided feedback on project proposals, graded all materials in the course, and led some of the lectures. I also guest lectured both in 2020 (slides <a href="https://people.eecs.berkeley.edu/~anca/AHRI-S2020/andreea.pdf" target="_blank">here</a>) and 2021. Course materials can be found <a href="https://people.eecs.berkeley.edu/~anca/AHRI.html" target="_blank">here</a>.
       </p>
+      <li class="list-group-item">○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.</li>
     </ul>
       </div>
     </div>
