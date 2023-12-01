@@ -24,8 +24,8 @@ nav_order: 5
   .card-spacing {
     margin-bottom: 20px; /* Adjust the value as needed */
   }
-  .list-group-item:not(:last-child) {
-    border-bottom: 1px solid #007bff; /* Replace with your desired color */
+  .custom-bottom {
+    border-bottom: 1px solid #333; /* Replace with your desired color */
   }
 </style>
 
@@ -38,8 +38,8 @@ nav_order: 5
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Fall 2023: Guest Lecturer</h6>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item no-background">Lecture 2: Introduction to Unity</li>
-          <li class="list-group-item no-background">Lecture 5: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery</li>
+          <li class="list-group-item no-background custom-bottom">Lecture 2: Introduction to Unity</li>
+          <li class="list-group-item no-background custom-bottom">Lecture 5: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery</li>
           <li class="list-group-item no-background">Lecture 12: Computer Vision for Extended Reality</li>
         </ul>
       </div>
