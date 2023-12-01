@@ -44,7 +44,7 @@ nav_order: 6
         <h5 class="card-title">1st Place for our project Touchless Heartbeat</h5>
         <h6 class="card-subtitle font-italic mb-3">Stanford XR Hackathon: Reimagining Reality, May 2022</h6>
           <ul class="list-group list-group-flush">
-        <li class=<a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</li>
+        <li class="list-group-item no-background"><"https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</li>
         </ul>
       </div>
     </div>
@@ -70,7 +70,7 @@ nav_order: 6
         <h5 class="card-title">Best 3MT Research Presentation Award and 3MT People’s Choice Award</h5>
         <h6 class="card-subtitle font-italic mb-3">American University of Beirut (AUB), 2019</h6>
         <ul class="list-group list-group-flush">
-          <li class=<a href="https://www.youtube.com/watch?v=bvjAbn2Odzg&t=2442s" target="_blank" rel="noopener noreferrer">Watch my talk</li>
+        <li class="list-group-item no-background"><a href="https://www.youtube.com/watch?v=bvjAbn2Odzg&t=2442s" target="_blank" rel="noopener noreferrer">Watch my talk</li>
         </ul>
       </div>
     </div>
