@@ -24,6 +24,9 @@ nav_order: 5
   .card-spacing {
     margin-bottom: 20px; /* Adjust the value as needed */
   }
+  .list-group-item:not(:last-child) {
+    border-bottom: 1px solid #007bff; /* Replace with your desired color */
+  }
 </style>
 
 <div class="card custom-border card-spacing">
