@@ -1,5 +1,5 @@
 ---
-layout: about
+layout: about-custom
 title: Bio
 permalink: /
 subtitle: Extended Reality, Computer Vision, Computer-Assisted Surgery, and Neural Engineering.
@@ -9,7 +9,7 @@ profile:
   image: Profile.jpg
   image_circular: true # crops the image to make it circular
   address: >
-    
+    <p>Stanford, California</p>
   more_info: 
 
 news: false  # includes a list of news items
