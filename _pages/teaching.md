@@ -12,19 +12,24 @@ nav_order: 5
 <div class="card">
   <div class="p-3">
     <div class="row">
-      <div class="col-sm-10">
-        <h5 class="card-title"><a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a></h5>
+      <div class="col-12">
+        <h5 class="card-title">
+          <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
+        </h5>
         <h6 class="card-subtitle font-italic">Fall 2021: TA</h6>
-        <ul class="card-text font-weight-light list-group list-group-flush">
-      <p>
-      Mixed reality uses transparent displays to place virtual objects in the user's field of vision such that they can be aligned to and interact with actual objects. This has tremendous potential for medical applications. The course aims to teach the basics of mixed-reality device technology, and to directly connect engineering students to physicians for real-world applications. Student teams would compete guided assignments on developing new mixed-reality technology and a final project applying mixed-reality to solve real medical challenges. Prerequisites: (1) Programming competency in a language such as C, C++. or Python. (2) A basic signal processing course such as EE102B (Digital Signal Processing). A medical imaging course, while not required, will be helpful. 
-      </p>
-      <li class="list-group-item">○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.</li>
-    </ul>
+        <p class="card-text font-weight-light">
+          Mixed reality uses transparent displays to place virtual objects in the user's field of vision such that they can be aligned to and interact with actual objects. This has tremendous potential for medical applications. The course aims to teach the basics of mixed-reality device technology, and to directly connect engineering students to physicians for real-world applications. Student teams would compete guided assignments on developing new mixed-reality technology and a final project applying mixed-reality to solve real medical challenges. Prerequisites: (1) Programming competency in a language such as C, C++. or Python. (2) A basic signal processing course such as EE102B (Digital Signal Processing). A medical imaging course, while not required, will be helpful. 
+        </p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item">
+            ○ Graduate-level introduction to machine learning course for masters and PhD students, taught by <a href="https://www.cs.cmu.edu/~pradeepr/" target="_blank">Prof. Pradeep Ravikumar</a> and  <a href="https://www.cs.cmu.edu/~mmv/" target="_blank">Prof. Manuela Veloso</a>.
+          </li>
+        </ul>
       </div>
     </div>
+  </div>
 </div>
-</div>
+
 
 <!-- <div class="card mt-3">
   <div class="p-3">
