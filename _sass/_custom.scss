@@ -161,53 +161,51 @@ footer.sticky-bottom {
 
 // Writing
 .writing {
-  a {
-    text-decoration: none;
+    a {
+        text-decoration: none;
 
-    &:hover {
-      .card-title {
-        color: var(--global-hover-color);
-      }
-    }
-  }
-
-  h2.category {
-    color: var(--global-divider-color);
-    border-bottom: 1px solid var(--global-divider-color);
-    padding-top: 0.5rem;
-    margin-top: 2rem;
-    margin-bottom: 1rem;
-    text-align: right;
-  }
-
-
-  .card {
-    border-style: hidden;
-    border: none;
-    box-shadow: none;
-    background-color: var(--global-bg-color);
-
-    &:hover {
-      transform: scale(1.02);
+        &:hover {
+            .card-title {
+                color: var(--global-hover-color);
+            }
+        }
     }
 
-    h5 {
-      font-size: 1.25rem;
+    h2.category {
+        color: var(--global-divider-color);
+        border-bottom: 1px solid var(--global-divider-color);
+        padding-top: 0.5rem;
+        margin-top: 2rem;
+        margin-bottom: 1rem;
+        text-align: right;
     }
 
-    h6 {
-      font-size: 0.9rem;
+
+    .card {
+        border-style: hidden;
+        border: none;
+        box-shadow: none;
+        background-color: var(--global-bg-color);
+
+        &:hover {
+            transform: scale(1.02);
+        }
+
+        h5 {
+            font-size: 1.25rem;
+        }
+
+        h6 {
+            font-size: 0.9rem;
+        }
+
+        .card-subtitle {
+            color: var(--global-theme-color);
+        }
     }
 
-    .card-subtitle {
-      color: var(--global-theme-color);
+    figure,
+    img {
+        max-width: 20vw;
     }
-  }
-
-  figure,
-  img {
-    max-width: 20vw;
-  }
-
-
 }
