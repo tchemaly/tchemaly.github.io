@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a href="https://www.lorientlejour.com/article/915482/lusek-vole-la-vedette-au-concours-vex-robotics-.html" target="_blank" rel="noopener noreferrer">VEX Robotics Skyrise 2014-2015</a>
-description: Our team won the Design Award and represented Lebanon at the VEX Robotics World Championship
+title: <a href="https://www.lorientlejour.com/article/915482/lusek-vole-la-vedette-au-concours-vex-robotics-.html" target="_blank" rel="noopener noreferrer">VEXU Robotics Skyrise 2014-2015</a>
+description: Our team won the Design Award and represented Lebanon at the VEXU Robotics World Championship
 img: assets/img/vex1.jpg
 importance: 1
 category: USEK Robotics Team

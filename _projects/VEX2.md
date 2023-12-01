@@ -1,7 +1,7 @@
 ---
 layout: page
-title: VEX Robotics Nothing But Net 2015-2016
-description: Our team participated in the 2015-2016 VEX Robotics Nothing But Net Competition
+title: VEXU Robotics Nothing But Net 2015-2016
+description: Our team participated in the 2015-2016 VEXU Robotics Nothing But Net Competition
 img: assets/img/vex2.jpg
 importance: 1
 category: USEK Robotics Team
