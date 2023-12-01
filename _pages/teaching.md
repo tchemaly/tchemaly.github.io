@@ -28,6 +28,24 @@ nav_order: 5
     <div class="row">
       <div class="col-10 custom-padding">
         <h5 class="card-title">
+          <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
+        </h5>
+        <h6 class="card-subtitle font-italic mb-3">Fall 2023: Guest Lecturer</h6>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background">Lecture 2: Introduction to Unity</li>
+          <li class="list-group-item no-background">Lecture 5: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery</li>
+          <li class="list-group-item no-background">Lecture 12: Computer Vision for Extended Reality</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card custom-border">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-10 custom-padding">
+        <h5 class="card-title">
           <a href="https://stanford-bioe80.github.io/docs/introduction/" target="_blank" rel="noopener noreferrer">Introduction to Bioengineering</a>
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Spring 2022: TA</h6>
