@@ -1,7 +1,7 @@
 ---
 layout: page
-title: <a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Touchless Heartbeat</a>
-description: Winner of Stanford XR Hackathon 2023 - A realtime AR visualization of the heart rate estimated using deep learning
+title: <a href="https://devpost.com/software/painpal-6l27vk" target="_blank" rel="noopener noreferrer">PainPal</a>
+description: Submitted to MIT Reality Hack 2023 - PainPal gives patients a VR pain-t brush to express and convey the pain they feel to clinicians and their loved ones
 img: assets/img/fabian.gif
 importance: 1
 category: XR Hackathons
