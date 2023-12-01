@@ -210,6 +210,10 @@ blockquote {
   }
 }
 
+.desc {
+    color: var(--global-theme-color);
+}
+
 
 // Navbar customization
 
@@ -352,7 +356,7 @@ blockquote {
   text-align: left;
 
   .contact-icons {
-    font-size: 2.5rem;
+    font-size: 2rem;
 
     a {
       i::before {
