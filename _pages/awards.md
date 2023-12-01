@@ -44,7 +44,7 @@ nav_order: 6
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Stanford XR Hackathon: Reimagining Reality, May 2022</h6>
         <ul class="list-group list-group-flush">
-          <li class=<a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</a></li>
+          <li class="list-group-item no-background custom-bottom"><a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</a></li>
         </ul>
       </div>
     </div>
