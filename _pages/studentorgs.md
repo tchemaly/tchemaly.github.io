@@ -24,14 +24,14 @@ I am proudly the co-president of [Stanford XR](https://www.stanfordxr.org/), Sta
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include studentorgs_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include studentorgs.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
@@ -45,14 +45,14 @@ I am proudly the co-president of [Stanford XR](https://www.stanfordxr.org/), Sta
   <div class="container">
     <div class="row row-cols-2">
     {%- for project in sorted_projects -%}
-      {% include projects_horizontal.html %}
+      {% include studentorgs_horizontal.html %}
     {%- endfor %}
     </div>
   </div>
   {%- else -%}
   <div class="grid">
     {%- for project in sorted_projects -%}
-      {% include projects.html %}
+      {% include studentorgs.html %}
     {%- endfor %}
   </div>
   {%- endif -%}
