@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="https://immersethebay.stanfordxr.org/" target="_blank" rel="noopener noreferrer">Immerse The Bay</a>
+title: <a href="https://immersethebay.stanfordxr.org/" target="_blank" rel="noopener noreferrer">Immerse the Bay</a>
 description: Organized Immerse The Bay, Stanford University’s first public XR Hackathon, making it the largest XR hackathon in the Bay Area and the West Coast
 img: assets/img/itb.gif
 importance: 1
