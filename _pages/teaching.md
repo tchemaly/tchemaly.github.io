@@ -22,7 +22,7 @@ Organize your courses by years, topics, or universities, however you like!
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
-          RAD 206
+          RAD206
         </span>
       </div>
     </div>
@@ -40,6 +40,7 @@ Organize your courses by years, topics, or universities, however you like!
         <div class="row">
           <div class="col-sm-9">
             Lecture 5: Interactive Shape Sonification for Tumor Localization in Breast Cancer Surgery
+
           </div>
           <div class="col-sm-3">
       </li>
@@ -51,6 +52,8 @@ Organize your courses by years, topics, or universities, however you like!
           </div>
         </div>
       </li>
+      
+    </ul>
     
   </div>
 </div>
