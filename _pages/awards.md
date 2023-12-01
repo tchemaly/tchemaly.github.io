@@ -55,7 +55,7 @@ nav_order: 6
   <div class="p-3">
     <div class="row centered-col-11">
       <div class="col">
-        <h5 class="card-title">"The Eltoukhy Family Graduate Fellowship"
+        <h5 class="card-title">The Eltoukhy Family Graduate Fellowship
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Stanford University, 2019-2020</h6>
       </div>
