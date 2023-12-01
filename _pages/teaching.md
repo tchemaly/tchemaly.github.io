@@ -15,8 +15,8 @@ nav_order: 5
     border-radius: 4px; /* Optional: if you want rounded corners */
   }
   .custom-padding {
-    padding-left: 15px; /* Adjust the left padding as needed */
-    padding-right: 15px; /* Adjust the right padding as needed */
+    padding-left: 30px; /* Adjust the left padding as needed */
+    padding-right: 30px; /* Adjust the right padding as needed */
   }
   .no-background {
     background-color: transparent !important; /* Override background color */
@@ -26,7 +26,7 @@ nav_order: 5
 <div class="card custom-border">
   <div class="p-3">
     <div class="row">
-      <div class="col-11 custom-padding">
+      <div class="col-10 custom-padding">
         <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
@@ -35,9 +35,9 @@ nav_order: 5
           Mixed reality uses transparent displays to place virtual objects in the user's field of vision such that they can be aligned to and interact with actual objects. This has tremendous potential for medical applications. The course aims to teach the basics of mixed-reality device technology, and to directly connect engineering students to physicians for real-world applications. Student teams would compete guided assignments on developing new mixed-reality technology and a final project applying mixed-reality to solve real medical challenges. Prerequisites: (1) Programming competency in a language such as C, C++. or Python. (2) A basic signal processing course such as EE102B (Digital Signal Processing). A medical imaging course, while not required, will be helpful. 
         </p>
         <ul class="list-group list-group-flush">
-          <li class="list-group-item no-background">Created and graded assignments</li>
-          <li class="list-group-item no-background">Held office hours and mentored students individually</li>
-          <li class="list-group-item no-background">Mentored groups of students working on class projects</li>
+          <li class="list-group-item no-background">○ Created and graded assignments</li>
+          <li class="list-group-item no-background">○ Held office hours and mentored students individually</li>
+          <li class="list-group-item no-background">○ Mentored groups of students working on class projects</li>
         </ul>
       </div>
     </div>
