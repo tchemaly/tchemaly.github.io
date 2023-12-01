@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Instrument Tracking
+title: Surgical Instrument Tracking
 description: Accepted to AOS - Automated instrument tracking of the drill and suction irrigator in mastoidectomy surgery videos using YOLOv8
 img: assets/img/George.jpg
 importance: 1

@@ -1,6 +1,6 @@
 ---
 layout: page
-title: AR for Brachytherapy
+title: AR Guidance for Brachytherapy
 description: Electromagnetic tracking and AR visualization of needles in Ultrasound-guided brachytherapy - built for HoloLens 2
 img: assets/img/webp/Felicity.webp
 importance: 1
