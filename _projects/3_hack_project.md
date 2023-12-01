@@ -2,7 +2,7 @@
 layout: page
 title: arthRIGHT
 description: Built at Health Hacks 2023 - First VR app to provide live gait retraining using clinical metrics and remote monitoring for Osteoarthritis patients - built for Meta Quest 2
-img: assets/img/HH.gif
+img: assets/img/webp/HH.gif
 importance: 1
 category: XR Hackathons
 related_publications: 
