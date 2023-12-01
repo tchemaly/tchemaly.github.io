@@ -32,7 +32,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-10 custom-padding">
+      <div class="col-10">
         <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
@@ -50,7 +50,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-10 custom-padding">
+      <div class="col-10">
         <h5 class="card-title">
           <a href="https://stanford-bioe80.github.io/docs/introduction/" target="_blank" rel="noopener noreferrer">Introduction to Bioengineering</a>
         </h5>
@@ -70,7 +70,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-10 custom-padding">
+      <div class="col-10">
         <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
@@ -91,7 +91,7 @@ nav_order: 5
 <div class="card custom-border card-spacing">
   <div class="p-3">
     <div class="row">
-      <div class="col-10 custom-padding">
+      <div class="col-10">
         <h5 class="card-title">
           <a href="https://explorecourses.stanford.edu/search?view=catalog&filter-coursestatus-Active=on&page=0&catalog=&q=BIOE+301C%3A+Diagnostic+Devices+Lab&collapse=" target="_blank" rel="noopener noreferrer">Diagnostic Devices Lab</a>
         </h5>
