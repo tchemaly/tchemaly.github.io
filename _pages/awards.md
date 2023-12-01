@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /awards/
 title: Awards
 description: 
 nav: true
