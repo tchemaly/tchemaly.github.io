@@ -7,8 +7,6 @@ nav: true
 nav_order: 6
 ---
 
-<h3 class="mt-4">Stanford University</h3>
-
 <style>
   .custom-border {
     border: 1px solid #333; /* Adjust the color as needed */
@@ -41,10 +39,12 @@ nav_order: 6
   <div class="p-3">
     <div class="row centered-col-11">
       <div class="col">
-        <h5 class="card-title">1st Place for our project Touchless Heartbeat</h5>
+        <h5 class="card-title">
+          1st Place for our project Touchless Heartbeat
+        </h5>
         <h6 class="card-subtitle font-italic mb-3">Stanford XR Hackathon: Reimagining Reality, May 2022</h6>
-          <ul class="list-group list-group-flush">
-        <li class="list-group-item no-background"><"https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</li>
+        <ul class="list-group list-group-flush">
+          <li class=<a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</a></li>
         </ul>
       </div>
     </div>
