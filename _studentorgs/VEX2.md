@@ -1,10 +1,10 @@
 ---
 layout: page
-title: ARWEAR
-description: AR app for fashion try-on using 2D to 3D generative AI and body tracking - built for iOS
-img: assets/img/ARWEAR.jpg
+title: VEX Robotics Nothing But Net 2015-2016
+description: Our team participated in the 2015-2016 VEX Robotics Nothing But Net Competition
+img: assets/img/vex2.jpg
 importance: 1
-category: XR Hackathons
+category: USEK Robotics Team
 related_publications: 
 ---
 

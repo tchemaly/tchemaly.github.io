@@ -1,10 +1,10 @@
 ---
 layout: page
-title: arthRIGHT
-description: Built at Health Hacks 2023 - First VR app to provide live gait retraining using clinical metrics and remote monitoring for Osteoarthritis patients - built for Meta Quest 2
-img: assets/img/HH.gif
+title: <a href="https://www.lorientlejour.com/article/915482/lusek-vole-la-vedette-au-concours-vex-robotics-.html" target="_blank" rel="noopener noreferrer">VEX Robotics Skyrise 2014-2015</a>
+description: Our team won the Design Award and represented Lebanon at the VEX Robotics World Championship
+img: assets/img/vex1.jpg
 importance: 1
-category: XR Hackathons
+category: USEK Robotics Team
 related_publications: 
 ---
 
