@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 2
-display_categories: [Medical XR and Computer Vision, Neural Engineering, XR Hackathons]
+display_categories: [Medical XR and Computer Vision, XR Hackathons, Neural Engineering]
 horizontal: false
 ---
 
