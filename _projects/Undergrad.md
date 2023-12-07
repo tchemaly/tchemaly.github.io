@@ -3,7 +3,7 @@ layout: page
 title: <a href="https://ieeexplore.ieee.org/abstract/document/8167571" target="_blank" rel="noopener noreferrer">MRI and Stereo Vision Surface Reconstruction and Fusion</a>
 description: Published by IEEE - 3D reconstruction and fusion of the surface of breast phantoms imaged with different modalities (MRI and camera) for guidance in robotic-assisted biopsy
 img: assets/img/undergrad.gif
-importance: 1
+importance: 2
 category: Medical XR and Computer Vision
 related_publications: 
 ---

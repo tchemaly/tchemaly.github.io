@@ -3,7 +3,7 @@ layout: page
 title: <a href="https://medium.com/design-bootcamp/a-phd-students-first-dive-into-design-afbdccef5d6a" target="_blank" rel="noopener noreferrer">RESQVISION - AR Aid for Emergency Responders</a>
 description: Designed and implemented as part of the Stanford d.school Creativity in Research Scholars program - built for HoloLens2
 img: assets/img/TMS.png
-importance: 2
+importance: 6
 category: Medical XR and Computer Vision
 related_publications: 
 ---

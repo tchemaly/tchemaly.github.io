@@ -3,7 +3,7 @@ layout: page
 title: <a href="https://archive.ismrm.org/2020/4150.html" target="_blank" rel="noopener noreferrer">AR for TMS Treatment</a>
 description: A mixed reality neuronavigation system that allows brain MRI visualization during transcranial magnetic stimulation (TMS) Treatment
 img: assets/img/TMS.png
-importance: 1
+importance: 8
 category: Medical XR and Computer Vision
 related_publications: 
 ---
