@@ -3,7 +3,7 @@ layout: page
 title: <a href="https://link.springer.com/article/10.1007/s11548-022-02727-8" target="_blank" rel="noopener noreferrer">SurgiSim VR Microscope</a>
 description:  Published in IJCARS - Designing and refining a VR microscope user experience and interaction to optimize surgical rehearsal and education
 img: assets/img/Maddie.jpg
-importance: 5
+importance: 6
 category: Medical XR and Computer Vision
 related_publications: 
 ---
