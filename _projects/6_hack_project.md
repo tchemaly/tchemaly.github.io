@@ -1,8 +1,8 @@
 ---
 layout: page
-title: <a href="https://devpost.com/software/dr-clippy" target="_blank" rel="noopener noreferrer">EduVision</a>
-description: Built at Treehacks 2024 - A spatial AI research assistant designed to enhance your desktop research workflow - built for Apple Vision Pro
-img: assets/img/clippy.jpg
+title: <a href="https://devpost.com/software/eduvision-raosb8" target="_blank" rel="noopener noreferrer">EduVision</a>
+description: Winner at MIT Reality Hack 2024 - A 3D printed microscope leveraging XR to make scientific experiments accessible - built for Android and Looking Glass
+img: assets/img/eduvision.png
 importance: 2
 category: XR Hackathons
 related_publications: 

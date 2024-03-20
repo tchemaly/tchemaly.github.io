@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 02-08-2024
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+First author paper was accepted to CARS 2024 as a Lecture Presentation!
