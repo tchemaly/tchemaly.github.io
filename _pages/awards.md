@@ -40,10 +40,7 @@ nav_order: 6
     <div class="row centered-col-11">
       <div class="col">
         <h5 class="card-title">
-          Best Use of Looking Glass
-        </h5>
-        <h5 class="card-title">
-          2nd Place in Startup Track
+          Best Use of Looking Glass, 2nd Place in Startup Track
         </h5>
         <h6 class="card-subtitle font-italic mb-3">MIT Reality Hack, January 2024</h6>
         <ul class="list-group list-group-flush">
