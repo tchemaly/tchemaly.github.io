@@ -1,12 +1,19 @@
 ---
 layout: page
-title: arthRIGHT
-description: Built at Health Hacks 2023 - First VR app to provide live gait retraining using clinical metrics and remote monitoring for Osteoarthritis patients - built for Meta Quest 2
-img: assets/img/webp/HH.webp
-importance: 5
+title: <a href="https://devpost.com/software/dr-clippy" target="_blank" rel="noopener noreferrer">EduVision</a>
+description: Built at Treehacks 2024 - A spatial AI research assistant designed to enhance your desktop research workflow - built for Apple Vision Pro
+img: assets/img/clippy.jpg
+importance: 2
 category: XR Hackathons
 related_publications: 
 ---
+
+</div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          HoloLens 2
+        </span>
+</div>
 
 <!-- Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.

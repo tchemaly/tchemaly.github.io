@@ -3,7 +3,7 @@ layout: page
 title: ARWEAR
 description: AR app for fashion try-on using 2D to 3D generative AI and body tracking - built for iOS
 img: assets/img/ARWEAR.jpg
-importance: 1
+importance: 6
 category: XR Hackathons
 related_publications: 
 ---
