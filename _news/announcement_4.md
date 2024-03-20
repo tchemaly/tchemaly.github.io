@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Paper was accepted to <a href="https://link.springer.com/article/10.1007/s11548-023-02980-5">CHI</a> 2024!
+<a href="https://scholar.google.com/citations?view_op=view_citation&hl=en&user=pe5OOCkAAAAJ&citation_for_view=pe5OOCkAAAAJ:Tyk-4Ss8FVUC">Paper</a> was accepted to CHI 2024!
