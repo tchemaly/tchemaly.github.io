@@ -1,7 +1,7 @@
 ---
 layout: page
 title: <a href="https://devpost.com/software/eduvision-raosb8" target="_blank" rel="noopener noreferrer">EduVision</a>
-description: Winner at MIT Reality Hack 2024 - A 3D printed microscope leveraging XR to make scientific experiments accessible - built for Android and Looking Glass
+description: Winner at MIT Reality Hack 2024 - A 3D printed XR microscope for accessible scientific experiments - built for Android and Looking Glass
 img: assets/img/eduvision.png
 importance: 2
 category: XR Hackathons
