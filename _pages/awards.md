@@ -40,11 +40,30 @@ nav_order: 6
     <div class="row centered-col-11">
       <div class="col">
         <h5 class="card-title">
+          Best Use of Looking Glass and 2nd Place in Startup Track for our project EduVision
+        </h5>
+        <h6 class="card-subtitle font-italic mb-3">MIT Reality Hack, January 2024</h6>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background custom-bottom"><a href="https://devpost.com/software/eduvision-raosb8" target="_blank" rel="noopener noreferrer">Check our project</a></li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card custom-border card-spacing">
+  <div class="p-3">
+    <div class="row centered-col-11">
+      <div class="col">
+        <h5 class="card-title">
           1st Place for our project Touchless Heartbeat
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Stanford XR Hackathon: Reimagining Reality, May 2022</h6>
         <ul class="list-group list-group-flush">
           <li class="list-group-item no-background custom-bottom"><a href="https://devpost.com/software/touchless-heartrate" target="_blank" rel="noopener noreferrer">Check our project</a></li>
+        </ul>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background custom-bottom"><a href="https://register.inc.com/index.php/email/emailWebview?email=NjEwLUxFRS04NzIAAAGRI8M8h33Q02EbK38ba5DjIzVftQ9yGz98RiTo4_H4vwv7IQM6a87XW6LQe30gyv4POFhHFbERDyrmcQkZ0a9c9k-YvHWq-RHXfw" target="_blank" rel="noopener noreferrer">Featured in Fast Company article</a></li>
         </ul>
       </div>
     </div>
