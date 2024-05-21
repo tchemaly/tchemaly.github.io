@@ -1,6 +1,6 @@
 ---
 layout: page
-title: <a href="https://www.conference.stanfordxr.org/" target="_blank" rel="noopener noreferrer">Stanford XR Conference</a>
+title: Stanford XR Conference
 description: Co-organized the 2023 Stanford XR Annual Conference and led the medical XR panel
 img: assets/img/sxrc.jpg
 importance: 1

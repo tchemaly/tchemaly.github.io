@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Stanford XR Conference
+title: <a href="https://conference.stanfordxr.org/" target="_blank" rel="noopener noreferrer">Stanford XR Conference</a>
 description: Organized the 2024 Stanford XR Annual Conference 
 img: assets/img/sxrc2024.png
 importance: 1
