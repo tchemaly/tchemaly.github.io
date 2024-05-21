@@ -2,7 +2,7 @@
 layout: page
 title: Stanford XR Conference
 description: Organized the 2024 Stanford XR Annual Conference 
-img: assets/img/sxrc2024.jpg
+img: assets/img/sxrc2024.png
 importance: 1
 category: Stanford XR
 related_publications: 
