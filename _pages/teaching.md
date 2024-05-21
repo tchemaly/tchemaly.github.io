@@ -42,6 +42,26 @@ nav_order: 4
     <div class="row centered-col-11">
       <div class="col">
         <h5 class="card-title">
+          <a href="https://explorecourses.stanford.edu/search?view=catalog&academicYear=&page=0&q=CS&filter-departmentcode-CS=on&filter-coursestatus-Active=on&filter-term-Spring=on" target="_blank" rel="noopener noreferrer">Spatial Computing Workshop</a>
+        </h5>
+        <h6 class="card-subtitle font-italic mb-3">Spring 2024: Course Developer and Instructor</h6>
+        <p class="card-text font-weight-light">
+          This one-unit workshop introduces UX design fundamentals for XR (Extended Reality) applications through a combination of hands-on work sessions and guest lectures from industry and academic experts–focusing on spatial prototyping and introducing Xcode for implementing applications on the Apple Vision Pro. Students will work in teams to propose and develop prototypes for applications that embody best practices within virtual, augmented, and mixed-reality environments. The course covers user-centered design principles and the distinct challenges and opportunities inherent in design for spatial computing. Emphasis will be placed on prototyping techniques that allow for the rapid iteration and testing of XR environments, ensuring students thoroughly understand how to conceptualize, design, and refine user experiences in this emerging field. 
+        </p>
+        <ul class="list-group list-group-flush">
+          <li class="list-group-item no-background">○ Co-created course syllabus and content</li>
+          <li class="list-group-item no-background">○ Held office hours and mentored students</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class="card custom-border card-spacing">
+  <div class="p-3">
+    <div class="row centered-col-11">
+      <div class="col">
+        <h5 class="card-title">
           <a href="https://med.stanford.edu/immers/news/rad206.html" target="_blank" rel="noopener noreferrer">Mixed-Reality in Medicine</a>
         </h5>
         <h6 class="card-subtitle font-italic mb-3">Fall 2023: Guest Lecturer</h6>
