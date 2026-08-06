@@ -16,3 +16,8 @@
     apply(next);
   });
 })();
+
+document.querySelectorAll('.hover-video img').forEach(function(img){
+  img.addEventListener('mouseenter', function(){ img.src = img.dataset.gif; });
+  img.addEventListener('mouseleave', function(){ img.src = img.dataset.still; });
+});

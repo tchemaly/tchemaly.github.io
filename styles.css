@@ -4,6 +4,7 @@
   --text-mid:oklch(36% 0.006 250);
   --text-faint:oklch(48% 0.008 250);
   --link:oklch(28% 0.005 250);
+  --link-strong:oklch(45% 0.08 235);
   --icon:oklch(30% 0.006 250);
   --divider:oklch(80% 0.006 250);
   --divider-faint:oklch(91% 0.003 250);
@@ -16,6 +17,7 @@
   --text-mid:#D6D2C8;
   --text-faint:#A19C8E;
   --link:#9FB6E8;
+  --link-strong:#8FB8CC;
   --icon:#D6D2C8;
   --divider:#3A3D45;
   --divider-faint:#2A2D35;
@@ -195,18 +197,28 @@ h1{
 .featured-grid{display:flex;flex-direction:column;gap:32px;}
 .feature-card{
   display:grid;
-  grid-template-columns:120px 1fr;
+  grid-template-columns:180px 1fr;
   gap:24px;
   align-items:center;
 }
 .feature-card .visual{
-  width:120px;
-  height:80px;
+  width:180px;
+  height:135px;
   border-radius:3px;
   background:repeating-linear-gradient(45deg, var(--thumb-a) 0, var(--thumb-a) 6px, var(--thumb-b) 6px, var(--thumb-b) 12px);
+  overflow:hidden;
 }
-.feature-card .title{font-size:16px;color:var(--text-strong);line-height:1.5;margin:0;}
-.feature-card .details{font-size:13px;color:var(--text-faint);margin-top:8px;}
+.feature-card .visual img{
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  display:block;
+}
+.feature-card .visual.hover-video{cursor:pointer;}
+.feature-card .title{font-size:18px;color:var(--text-strong);line-height:1.5;margin:0;}
+.feature-card .details{font-size:14px;color:var(--text-faint);margin-top:8px;}
+.feature-card .details a,
+.pub .details a{color:var(--link-strong);font-weight:600;}
 .feature-divider{height:1px;background:var(--divider);}
 
 .pub-list{display:flex;flex-direction:column;gap:22px;}
@@ -214,6 +226,7 @@ h1{
 .pub .bracket{font-size:14px;color:var(--text-faint);}
 .pub .title{font-size:15px;color:var(--text-strong);line-height:1.5;margin:0;}
 .pub .details{font-size:13px;color:var(--text-faint);margin-top:4px;}
+.pub .details strong{color:var(--text-strong);font-weight:700;}
 
 /* mobile */
 @media (max-width:600px){
@@ -225,6 +238,6 @@ h1{
   .masthead-text{text-align:center;}
   h1{font-size:28px;}
   .about-text p{text-align:left;}
-  .feature-card{grid-template-columns:90px 1fr;gap:16px;}
-  .feature-card .visual{width:90px;height:60px;}
+  .feature-card{grid-template-columns:135px 1fr;gap:16px;}
+  .feature-card .visual{width:135px;height:101px;}
 }
