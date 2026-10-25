@@ -206,6 +206,7 @@ h1{
   height:135px;
   border-radius:3px;
   background:repeating-linear-gradient(45deg, var(--thumb-a) 0, var(--thumb-a) 6px, var(--thumb-b) 6px, var(--thumb-b) 12px);
+  border:1px solid var(--divider);
   overflow:hidden;
 }
 .feature-card .visual img{
@@ -256,3 +257,127 @@ h1{
   .feature-card{grid-template-columns:135px 1fr;gap:16px;}
   .feature-card .visual{width:135px;height:101px;}
 }
+
+/* ==========================================================================
+   VISION ANIMATION FEATURE — paused for rework, kept here commented out.
+   Pairs with the commented <aside class="vision-animation"> block in
+   research.html and the dormant vision.js (its <script> tag is also
+   commented out). Uncomment all three together to restore.
+   ==========================================================================
+
+.publications-section{
+  display:grid;
+  grid-template-columns:1fr 220px;
+  gap:40px;
+  align-items:start;
+}
+.publications-content{min-width:0;}
+
+.vision-animation{
+  position:sticky;
+  top:96px;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+  gap:16px;
+  padding-bottom:48px;
+}
+.vision-stage{
+  position:relative;
+  width:100%;
+  aspect-ratio:4/5;
+  border-radius:6px;
+  overflow:hidden;
+  background:#fcfcfc;
+  border:1px solid var(--divider-faint);
+}
+.vision-frame{
+  position:absolute;
+  inset:0;
+  margin:0;
+  opacity:0;
+  will-change:opacity, transform;
+}
+.vision-frame.vision-human{opacity:1;}
+.vision-frame img{
+  display:block;
+  width:100%;
+  height:100%;
+  object-fit:cover;
+  object-position:50% 46%;
+}
+.vision-static-caption{display:none;}
+
+.vision-caption{text-align:center;min-height:52px;}
+.vision-label{
+  font-size:12px;
+  font-weight:600;
+  letter-spacing:0.08em;
+  text-transform:uppercase;
+  color:var(--text-strong);
+  margin:0;
+}
+.vision-subtitle{
+  font-size:13px;
+  font-style:italic;
+  color:var(--text-faint);
+  margin:6px 0 0;
+}
+.vision-progress{display:flex;gap:8px;}
+.vision-dot{
+  width:6px;
+  height:6px;
+  border-radius:50%;
+  background:var(--divider);
+  transition:background-color 0.3s ease, transform 0.3s ease;
+}
+.vision-dot.active{background:var(--link-strong);transform:scale(1.3);}
+
+@media (prefers-reduced-motion: reduce){
+  .vision-animation{position:static;flex-direction:row;flex-wrap:wrap;justify-content:center;padding-bottom:0;}
+  .vision-stage{display:contents;}
+  .vision-frame{
+    position:static;
+    opacity:1;
+    width:84px;
+    aspect-ratio:4/5;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    gap:6px;
+  }
+  .vision-static-caption{
+    display:block;
+    font-size:10px;
+    letter-spacing:0.04em;
+    text-transform:uppercase;
+    color:var(--text-faint);
+    text-align:center;
+  }
+  .vision-caption,.vision-progress{display:none;}
+}
+
+-- tablet --
+@media (max-width:860px){
+  .publications-section{grid-template-columns:1fr 170px;gap:24px;}
+  .vision-animation{top:80px;}
+}
+
+-- mobile additions (merge into the main max-width:600px block above) --
+@media (max-width:600px){
+  .publications-section{display:flex;flex-direction:column;}
+  .section-title.full{margin-top:8px;}
+  .vision-animation{
+    order:-1;
+    position:static;
+    flex-direction:row;
+    align-items:center;
+    margin-bottom:0;
+    padding-bottom:0;
+  }
+  .vision-stage{width:120px;flex-shrink:0;}
+  .vision-caption{display:flex;flex-direction:column;justify-content:center;text-align:left;min-height:0;}
+  .vision-progress{justify-content:flex-start;align-items:center;}
+}
+
+   ========================================================================== */

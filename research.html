@@ -54,7 +54,9 @@
     <div class="feature-divider"></div>
 
     <div class="feature-card">
-      <div class="visual"></div>
+      <div class="visual hover-video">
+        <img src="images/digital-twin-f.jpg" data-still="images/digital-twin-f.jpg" data-gif="images/digital-twin-d.jpg" alt="Final alpha-blended AR overlay of segmented structures on the digital twin, showing the raw depth-difference visualization on hover">
+      </div>
       <div>
         <p class="title">Perception-first digital twin for augmented reality microsurgery</p>
         <div class="details">IJCARS, 2026, <a href="https://doi.org/10.1007/s11548-026-03637-9">Paper</a></div>
@@ -74,7 +76,9 @@
     <div class="feature-divider"></div>
 
     <div class="feature-card">
-      <div class="visual"></div>
+      <div class="visual hover-video">
+        <img src="images/hands-after.png" data-still="images/hands-after.png" data-gif="images/hands-before.png" alt="Hand-tracking overlay in microsurgical augmented reality, showing the baseline microscope view on hover">
+      </div>
       <div>
         <p class="title">From microscope to head-mounted display: integrating hand tracking into microsurgical augmented reality</p>
         <div class="details">IJCARS, 2024, <a href="https://doi.org/10.1007/s11548-024-03224-w">Paper</a></div>
@@ -243,10 +247,46 @@
 
   </div>
 
+  <!-- VISION ANIMATION FEATURE (paused for rework — see vision.js and the
+       "vision animation" block in styles.css, also left commented out).
+       To restore: wrap the "Full Publications" h2 + .pub-list above in
+       <div class="publications-section"><div class="publications-content"> ... </div>
+       then paste the aside below right after, close both wrapper divs,
+       uncomment the CSS block, and uncomment the vision.js <script> tag below.
+
+  <aside class="vision-animation" aria-hidden="true">
+    <div class="vision-stage">
+      <figure class="vision-frame vision-human">
+        <img src="images/vision/vision-human.webp" width="760" height="650" alt="">
+        <figcaption class="vision-static-caption">Human Vision</figcaption>
+      </figure>
+      <figure class="vision-frame vision-ar">
+        <img src="images/vision/vision-ar.webp" width="760" height="650" alt="">
+        <figcaption class="vision-static-caption">Augmented Vision</figcaption>
+      </figure>
+      <figure class="vision-frame vision-robot">
+        <img src="images/vision/vision-robot.webp" width="760" height="650" alt="">
+        <figcaption class="vision-static-caption">Robotic Vision</figcaption>
+      </figure>
+    </div>
+    <div class="vision-caption">
+      <p class="vision-label">Human Vision</p>
+      <p class="vision-subtitle">Understanding how we perceive the world.</p>
+    </div>
+    <div class="vision-progress">
+      <span class="vision-dot"></span>
+      <span class="vision-dot"></span>
+      <span class="vision-dot"></span>
+    </div>
+  </aside>
+
+  -->
+
   <div class="page-footer-line">Last updated: August 2026, Stanford, CA</div>
 
 </div>
 
 <script src="theme.js?v=2"></script>
+<!-- <script src="vision.js?v=1"></script> -->
 </body>
 </html>
